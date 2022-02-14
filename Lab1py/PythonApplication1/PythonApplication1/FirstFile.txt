@@ -1,0 +1,4 @@
+int z = 87;
+const char y = '%';
+return 0;
+int dick hui
