@@ -1,0 +1,5 @@
+int k = 7;
+const string str = "Hello";
+j = 18;
+cout << "End";
+return 0;
