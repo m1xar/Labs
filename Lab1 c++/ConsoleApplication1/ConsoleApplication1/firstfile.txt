@@ -1,0 +1,3 @@
+const int z = 13;
+string k = "djkfhsk";
+char[] buff = new char[255];
